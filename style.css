@@ -136,3 +136,11 @@ h3{
     color: rgb(5, 2, 2);
     font-family: 'Moul', serif;
 }
+@media screen and (max-width:720px) {
+    #txtcontainer{
+        width: 90%;
+        height: 400px;
+    }
+    
+}
+
